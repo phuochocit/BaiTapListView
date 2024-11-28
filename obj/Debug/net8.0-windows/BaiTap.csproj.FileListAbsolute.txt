@@ -1,0 +1,16 @@
+D:\C-sharp\BaiTap\bin\Debug\net8.0-windows\BaiTap.exe
+D:\C-sharp\BaiTap\bin\Debug\net8.0-windows\BaiTap.deps.json
+D:\C-sharp\BaiTap\bin\Debug\net8.0-windows\BaiTap.runtimeconfig.json
+D:\C-sharp\BaiTap\bin\Debug\net8.0-windows\BaiTap.dll
+D:\C-sharp\BaiTap\bin\Debug\net8.0-windows\BaiTap.pdb
+D:\C-sharp\BaiTap\obj\Debug\net8.0-windows\BaiTap.fListView.resources
+D:\C-sharp\BaiTap\obj\Debug\net8.0-windows\BaiTap.csproj.GenerateResource.cache
+D:\C-sharp\BaiTap\obj\Debug\net8.0-windows\BaiTap.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-sharp\BaiTap\obj\Debug\net8.0-windows\BaiTap.AssemblyInfoInputs.cache
+D:\C-sharp\BaiTap\obj\Debug\net8.0-windows\BaiTap.AssemblyInfo.cs
+D:\C-sharp\BaiTap\obj\Debug\net8.0-windows\BaiTap.csproj.CoreCompileInputs.cache
+D:\C-sharp\BaiTap\obj\Debug\net8.0-windows\BaiTap.dll
+D:\C-sharp\BaiTap\obj\Debug\net8.0-windows\refint\BaiTap.dll
+D:\C-sharp\BaiTap\obj\Debug\net8.0-windows\BaiTap.pdb
+D:\C-sharp\BaiTap\obj\Debug\net8.0-windows\BaiTap.genruntimeconfig.cache
+D:\C-sharp\BaiTap\obj\Debug\net8.0-windows\ref\BaiTap.dll
